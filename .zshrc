@@ -5,5 +5,6 @@ plugins=(
   git
 )
 
+alias zshrc="vim ${HOME}/.zshrc"
 source $ZSH/oh-my-zsh.sh
 
