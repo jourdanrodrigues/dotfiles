@@ -8,3 +8,6 @@ plugins=(
 alias zshrc="vim ${HOME}/.zshrc"
 source $ZSH/oh-my-zsh.sh
 
+# PyCharm fix
+export PATH=${PATH}:/usr/local/bin
+
