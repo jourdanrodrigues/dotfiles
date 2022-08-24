@@ -100,7 +100,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# PyCharm fix
+# PyCharm and NPM fix
 export PATH=${PATH}:/usr/local/bin
 
 export NVM_DIR="$HOME/.nvm"
