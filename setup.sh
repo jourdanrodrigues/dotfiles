@@ -12,4 +12,5 @@ export NVM_DIR="$HOME/.nvm"
 
 # General setup
 nvm install --lts
+nvm use --lts
 git config --global init.defaultBranch main
